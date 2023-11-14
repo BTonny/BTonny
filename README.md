@@ -18,8 +18,6 @@ I love learning from others, because i believe there is always something new to 
 🎮 Playing video games  
 🪩 Partying with friends
 
-📧 To chat, send me an email: [Gmail](mailto:tonnybaw75@gmail.com).
-
 ### Top Skills
 
 <p align="left">
@@ -52,7 +50,7 @@ I love learning from others, because i believe there is always something new to 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonny-bawembye-7456a020b" height="30" width="40" />
   </a>
   <a href="mailto:tonnybaw75@gmail.com" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="tonny-bawembye-7456a020b" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="tonnybaw75@gmail.com" height="30" width="40" />
   </a>
 </p>
 
