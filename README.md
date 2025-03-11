@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BTonny&label=Profile%20views&color=0e75b6&style=for-the-badge&base=100)
 
-[![Trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=BTonny&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=BTonny&theme=flat&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonnybaw?logo=twitter&style=for-the-badge)](https://twitter.com/tonnybaw)
 
