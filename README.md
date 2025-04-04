@@ -39,6 +39,9 @@ I love learning from others, because i believe there is always something new to 
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="vagrant" width="40" height="40"/>
   </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="vagrant" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
