@@ -21,28 +21,29 @@ I love learning from others, because i believe there is always something new to 
 ### Top Skills
 
 <p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="bash" width="40" height="40"/>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="linux" width="40" height="40"/>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
   </a>
-  <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="vagrant" width="40" height="40"/>
+  <a href="https://developer.apple.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="c" width="80" height="40"/>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="80" height="40"/>
   </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="vagrant" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="vagrant" width="80" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring boot" width="80" height="40"/>
   </a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
