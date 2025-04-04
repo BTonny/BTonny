@@ -31,7 +31,7 @@ I love learning from others, because i believe there is always something new to 
     <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="vagrant" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="c" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="python" width="40" height="40"/>
@@ -39,8 +39,8 @@ I love learning from others, because i believe there is always something new to 
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="vagrant" width="40" height="40"/>
   </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="vagrant" width="40" height="40"/>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="vagrant" width="40" height="40"/>
   </a>
 </p>
 
@@ -49,7 +49,7 @@ I love learning from others, because i believe there is always something new to 
   <a href="https://twitter.com/tonnybaw" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonnybaw" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/tonny-bawembye-7456a020b/" target="blank">
+  <a href="https://www.linkedin.com/in/tonny-bawembye/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonny-bawembye-7456a020b" height="30" width="40" />
   </a>
   <a href="mailto:tonnybaw75@gmail.com" target="blank">
