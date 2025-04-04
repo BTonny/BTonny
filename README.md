@@ -31,7 +31,7 @@ I love learning from others, because i believe there is always something new to 
     <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="vagrant" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="c" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="c" width="80" height="40"/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="python" width="40" height="40"/>
@@ -40,7 +40,7 @@ I love learning from others, because i believe there is always something new to 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="vagrant" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="vagrant" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="vagrant" width="80" height="40"/>
   </a>
 </p>
 
