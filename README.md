@@ -44,6 +44,64 @@ I love learning from others, because i believe there is always something new to 
   </a>
 </p>
 
+<h3> 🛠 &nbsp;Tech Stack / Top Skills</h3>
+
+- **Languages:**  
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=007ACC)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+  
+- **Frontend:**  
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-333333?style=flat&logo=redux&logoColor=764ABC)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
+
+  ### **Mobile:**  
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)  
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android&logoColor=3DDC84)  
+  ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=ios&logoColor=000000)  
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)  
+
+  ### **Frontend:**  
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=000000)  
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)  
+  
+- **Backend & Databases:**  
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+
+  ### **Backend & Databases:**  
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)  
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)  
+  ![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-333333?style=flat&logo=googlecloud&logoColor=FF9E00)  
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazondynamodb&logoColor=4053D6)  
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E)  
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud&logoColor=4285F4)  
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
+  
+- **DevOps & Tools:**  
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+  ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=githubactions&logoColor=blue)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
+  
+- **Other:**  
+  ![Vision Camera](https://img.shields.io/badge/-React%20Native%20Vision%20Camera-333333?style=flat&logo=camera)
+  ![Reanimated](https://img.shields.io/badge/-Reanimated-333333?style=flat&logo=react)
+  ![RevenueCat](https://img.shields.io/badge/-RevenueCat-333333?style=flat&logo=react)
+  ![Branch.io](https://img.shields.io/badge/-Branch.io-333333?style=flat&logo=branch)
+
+<br/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
