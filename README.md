@@ -12,37 +12,11 @@
 
 I love learning from others, because i believe there is always something new to learn and always seeking to improve and innovate.
 
-🩳 In my free time, you'll catch me;  
-⚽️ Watching/playing football  
-🏊🏾‍♂️ Swimming  
-🎮 Playing video games  
-🪩 Partying with friends
-
-### Top Skills
-
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="80" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring boot" width="80" height="40"/>
-  </a>
-</p>
+🩳 &nbsp; In my free time, you'll catch me;  
+- ⚽️ Watching/playing football  
+- 🏊🏾‍♂️ Swimming  
+- 🎮 Playing video games  
+- 🪩 Partying with friends
 
 <h3> 🛠 &nbsp;Tech Stack / Top Skills</h3>
 
@@ -81,15 +55,13 @@ I love learning from others, because i believe there is always something new to 
   
 - **DevOps & Tools:**  
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)
   ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=githubactions&logoColor=blue)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins&logoColor=D24939)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=FC6D26)
+  ![Fastlane](https://img.shields.io/badge/-Fastlane-333333?style=flat&logo=fastlane&logoColor=00D5A5)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon&logoColor=FF9900)
   
-- **Other:**  
-  ![Vision Camera](https://img.shields.io/badge/-React%20Native%20Vision%20Camera-333333?style=flat&logo=camera)
-  ![Reanimated](https://img.shields.io/badge/-Reanimated-333333?style=flat&logo=react)
-  ![RevenueCat](https://img.shields.io/badge/-RevenueCat-333333?style=flat&logo=react)
-  ![Branch.io](https://img.shields.io/badge/-Branch.io-333333?style=flat&logo=branch)
-
 <br/>
 
 
