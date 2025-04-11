@@ -60,13 +60,13 @@ I love learning from others, because i believe there is always something new to 
   ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-333333?style=flat&logo=redux&logoColor=764ABC)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
 
-  ### **Mobile:**  
+- ### **Mobile:**  
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)  
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android&logoColor=3DDC84)  
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=ios&logoColor=000000)  
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)  
 
-  ### **Frontend:**  
+- ### **Frontend:**  
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=000000)  
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)  
@@ -77,7 +77,7 @@ I love learning from others, because i believe there is always something new to 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
 
-  ### **Backend & Databases:**  
+- ### **Backend & Databases:**  
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)  
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)  
