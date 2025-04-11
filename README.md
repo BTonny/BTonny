@@ -23,7 +23,7 @@ I love learning from others, because i believe there is always something new to 
 - **Languages:**  
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=007ACC)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
@@ -55,7 +55,7 @@ I love learning from others, because i believe there is always something new to 
   
 - **DevOps & Tools:**  
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions&logoColor=white)
   ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=githubactions&logoColor=blue)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins&logoColor=D24939)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=FC6D26)
