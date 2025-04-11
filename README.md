@@ -77,7 +77,7 @@ I love learning from others, because i believe there is always something new to 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
 
-- ### **Backend & Databases:**  
+- **Backend & Databases:**  
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)  
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)  
