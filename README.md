@@ -77,16 +77,16 @@ I love learning from others, because i believe there is always something new to 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
 
-- **Backend & Databases:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)  
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)  
-  ![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-333333?style=flat&logo=googlecloud&logoColor=FF9E00)  
-  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazondynamodb&logoColor=4053D6)  
-  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E)  
-  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud&logoColor=4285F4)  
+- ### **Backend & Databases:**  
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+  ![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-333333?style=flat&logo=googlecloud&logoColor=FF9E00)
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazondynamodb&logoColor=4053D6)
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E)
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud&logoColor=4285F4)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
   
 - **DevOps & Tools:**  
